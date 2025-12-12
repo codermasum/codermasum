@@ -1,48 +1,14 @@
-
-
-   
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=codermasum.codermasum)
-
-<br />
-
-hi, i'm Masum Ahmed, a passionate self-taught Android App developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
- i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-
-  
-- 💼 any work? do reach, [email](mailto:masum.ahmeddev@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
-👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase! Realm 
-
-
-<!--END_SECTION:waka-->
-
-
-
-
-
-
-
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
+👋 Hey! I’m Masum 
+I’m an Android developer from India 🇮🇳 who enjoys building real-world products that are clean, scalable, and pleasant to use.
+I love taking ideas from “what if?” to working software — focusing not just on features, but also on architecture, performance, and maintainable code. I care about writing code that other developers (including future me 😄) can actually enjoy working with.
+Most of what I’ve learned comes from hands-on building and the open-source community. I really appreciate how developers share knowledge, collaborate, and help each other grow — and I try to do the same whenever I can.
+💼 Open to work & collaborations
+If you’re looking for someone who can own features, think in systems, and ship reliably, let’s talk.
+📧 Feel free to reach out via email.
+💬 Need help or want to chat?
+Ask me anything — tech, architecture, or random dev stuff. Always happy to connect.
+🛠️ Tech I work with
+👨‍💻 Mostly working on
+❤️ Android | Kotlin | JavaScript | React
+🔥 Firebase | Realm
+🚀 Always learning. Always building. Always improving.
